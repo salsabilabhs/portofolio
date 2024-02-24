@@ -1,0 +1,114 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/SearchRent/div_Your Rental Location_css-1dbjc4n r-14lw9ot r-kdyh1x r-d045u9 r-1p0dtai r-1d2f490 r-u8s1d r-zchlnj r-ipm5af r-14qw7yl r-z2knda r-1wyyakw",
+      "brokenLocator": "div.css-1dbjc4n.r-14lw9ot.r-kdyh1x.r-d045u9.r-1p0dtai.r-1d2f490.r-u8s1d.r-zchlnj.r-ipm5af.r-14qw7yl.r-z2knda.r-1wyyakw",
+      "brokenLocatorMethod": "CSS",
+      "proposedLocator": "//div[@id\u003d\u0027__next\u0027]/div[4]/div[2]/div/div[2]/div/div[3]/div/div/div/div/div[2]/div/div/div/div/div/div/div",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/SearchRent/div_Your Rental Location_css-1dbjc4n r-14lw9ot r-kdyh1x r-d045u9 r-1p0dtai r-1d2f490 r-u8s1d r-zchlnj r-ipm5af r-14qw7yl r-z2knda r-1wyyakw_XPATH.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/SearchRent/div_1",
+      "brokenLocator": "//div[@id\u003d\u0027__next\u0027]/div[4]/div[2]/div/div[2]/div/div[3]/div/div/div/div/div[2]/div/div[9]/div/div[2]/div/div/div/div/div[2]/div/div/div[2]/div[2]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Hour\u0027])[1]/following::div[8]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/SearchRent/div_1_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Select Car_until DropOff/div_Continue",
+      "brokenLocator": "//div[@id\u003d\u0027__next\u0027]/div/div[5]/div/div[4]/div[2]/div[2]/div[2]/div/div[2]/div",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Continue\u0027])[1]/following::div[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Select Car_until DropOff/div_Continue_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Select Car_until DropOff/div_Continue_provide",
+      "brokenLocator": "//div[@id\u003d\u0027__next\u0027]/div/div[5]/div/div[4]/div[2]/div[2]/div[2]/div",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027total\u0027])[1]/following::div[3]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Select Car_until DropOff/div_Continue_provide_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Select Car_until DropOff/input_Search location or address_css-11aywtz r-z2wwpe r-t1w4ow r-1b43r93 r-majxgm r-mabqd8 r-rjixqe r-cwlir5",
+      "brokenLocator": "(//input[@value\u003d\u0027\u0027])[2]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027RENTAL_DROPOFF_LOCATION\u0027]/div/div/div[5]/div[2]/div/div/div/div/div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Select Car_until DropOff/input_Search location or address_css-11aywtz r-z2wwpe r-t1w4ow r-1b43r93 r-majxgm r-mabqd8 r-rjixqe r-cwlir5_idRelative.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Cheapest Car Rental from Rp200kday Without or With Driver  Search for Cars on Traveloka/input_Search location or address_css",
+      "brokenLocator": "(//input[@value\u003d\u0027\u0027])[2]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027RENTAL_DROPOFF_LOCATION\u0027]/div/div/div[5]/div[2]/div/div/div/div/div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Cheapest Car Rental from Rp200kday Without or With Driver  Search for Cars on Traveloka/input_Search location or address_css_idRelative.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/SearchRent/div_JakartaJakarta Special Capital Region, IndonesiaRegion",
+      "brokenLocator": "//div[@id\u003d\u0027__next\u0027]/div[4]/div[2]/div/div[2]/div/div[3]/div/div/div/div/div[2]/div/div/div/div/div[2]/div/div[2]/div/div/div[2]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Cities or Regions\u0027])[1]/following::div[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": ""
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/SearchRent/div_JakartaJakarta Special Capital Region, IndonesiaRegion",
+      "brokenLocator": "//div[@id\u003d\u0027__next\u0027]/div[4]/div[2]/div/div[2]/div/div[3]/div/div/div/div/div[2]/div/div/div/div/div[2]/div/div[2]/div/div/div[2]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Enter city or region\u0027])[1]/following::div[5]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/SearchRent/div_JakartaJakarta Special Capital Region, IndonesiaRegion_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/SearchRent/div_Rental Start Date_css-1dbjc4n r-14lw9ot r-d045u9 r-1p0dtai r-1d2f490 r-u8s1d r-zchlnj r-ipm5af r-14qw7yl r-z2knda r-1wyyakw",
+      "brokenLocator": "//div[@id\u003d\u0027__next\u0027]/div[4]/div[2]/div/div[2]/div/div[3]/div/div/div/div/div[2]/div/div[3]/div/div/div/div",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[3]/div/div/div/div/div[2]/div/div[3]/div/div/div/div",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/SearchRent/div_Rental Start Date_css-1dbjc4n r-14lw9ot r-d045u9 r-1p0dtai r-1d2f490 r-u8s1d r-zchlnj r-ipm5af r-14qw7yl r-z2knda r-1wyyakw_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/contact details/input__number driver-css-11aywtz r-13awgt0 r-t1w4ow r-ubezar r-135wba7 r-bcqeeo r-1ny4l3l r-10paoce r-edyy15 r-13n6l4s",
+      "brokenLocator": "(//input[@value\u003d\u0027\u0027])[2]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027adultForm0\u0027]/div/div/div[2]/div[3]/div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/contact details/input__number driver-css-11aywtz r-13awgt0 r-t1w4ow r-ubezar r-135wba7 r-bcqeeo r-1ny4l3l r-10paoce r-edyy15 r-13n6l4s_idRelative.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/contact detail-2/input__email-css-11aywtz r-13awgt0 r-t1w4ow r-ubezar r-majxgm r-135wba7 r-bcqeeo r-1ny4l3l r-10paoce r-13n6l4s",
+      "brokenLocator": "(//input[@value\u003d\u0027\u0027])[3]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027__next\u0027]/div[2]/div[2]/div/div[2]/div/div/div/div[2]/div[2]/div[2]/div/div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/contact detail-2/input__email-css-11aywtz r-13awgt0 r-t1w4ow r-ubezar r-majxgm r-135wba7 r-bcqeeo r-1ny4l3l r-10paoce r-13n6l4s_idRelative.png"
+    }
+  ]
+}
