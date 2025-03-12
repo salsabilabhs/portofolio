@@ -1,1 +1,9 @@
-Halo! Saya Salsabila Bahhas, seorang Software QA Tester yang memiliki pengalaman Manual Testing selama 1 tahun. Berikut adalah portofolio berisikan Test Plan, Test Case, dan Bug Report dari beberapa project yang pernah saya lakukan.
+Sebagai Software QA Tester dengan pengalaman 2 tahun pada Manual Testing, berikut ini adalah:
+1. Dokumen Test Case
+2. Dokumen Test Execution
+3. Dokumen Bug Report
+Yang sudah saya lakukan untuk project sebagai portfolio pribadi.
+
+Best Regards,
+Salsabila Bahhas.
+
